@@ -1,4 +1,4 @@
-# MarLing
+# hehdinMain
 
 Ini adalah [Marzban](https://github.com/Gozargah/Marzban) yang sudah saya tambahkan nginx untuk konfigurasi koneksi WebSocket, HTTP Upgrade dan gRPC single port. </br>
 WebSocket sudah support untuk 443 TLS, 80 HTTP dan Wildcard path, contoh /enter-your-custom-path/trojan </br>
@@ -11,6 +11,7 @@ Credit aplikasi full to [Gozargah Marzban](https://github.com/Gozargah), saya ha
 - [Gozargah](https://github.com/Gozargah/Marzban)
 - [hamid-gh98](https://github.com/hamid-gh98)
 - [x0sina](https://github.com/x0sina/marzban-sub)
+- Hendra
 
 # List Protocol yang support
 - VLess
@@ -32,7 +33,7 @@ Credit aplikasi full to [Gozargah Marzban](https://github.com/Gozargah), saya ha
  ```
 Pastikan anda sudah login sebagai root sebelum menjalankan perintah dibawah
  ```html
- wget https://raw.githubusercontent.com/hendramla/MarLing/main/mar.sh && chmod +x mar.sh && ./mar.sh
+ wget https://raw.githubusercontent.com/hehdinn/hehdinnMain/main/mar.sh && chmod +x mar.sh && ./mar.sh
  ```
 
 Buka panel Marzban dengan mengunjungi https://domainmu:portyangsudahdiset/dashboard <br>
